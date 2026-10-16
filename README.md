@@ -30,7 +30,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 * 01 - []()
 
 
-**Förinspelat** - se **INNAN** 24/8
+**Förinspelat** - se **INNAN** 20/10
 * 01 - [Introduktion till Molnet](https://vimeo.com/1092409921/4cbce6d1e9?share=copy)
 * 02 - [Prismodeller i molnet](https://vimeo.com/1092411421/363bbe479a?share=copy)
 * 03 - [Hantera molnkostnader](https://vimeo.com/1092463975/8bd2df36cf?share=copy)
