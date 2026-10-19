@@ -56,11 +56,11 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Länkar
 
-* [AWS CLI Cheat Sheet]()
+* [AWS CLI Cheat Sheet](https://github.com/fu-cloud-ma25/week-43-aws-cli-cheat-sheet/tree/main)
 
 ### Övningar 
 
-* [IAM Bootcamp]()
-* [Lambda Bootcamp]()
-* [Serverless Framework Bootcamp]()
+* [IAM Bootcamp](https://github.com/fu-cloud-ma25/week-43-exercise-iam-bootcamp)
+* [Lambda Bootcamp](https://github.com/fu-cloud-ma25/week-43-exercise-lambda-bootcamp)
+* [Serverless Framework Bootcamp](https://github.com/fu-cloud-ma25/week-43-exercise-serverless-framework-bootcamp)
 
