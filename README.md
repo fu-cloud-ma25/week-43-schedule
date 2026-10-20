@@ -32,6 +32,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 **Lektionsinspelat**
 * 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQC0prYhLsvqTJ8llkPX-haYAe680aMgu6-LP26PNCbzFVA?e=pBqpF3)
+* 02 - [Intro till AWS och Lambda](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQD6XFJXGwEeS6j_z_YJpYBsAZx9soVuINe7jDRS2zSyHPQ?e=j58Gkr)
 
 
 **Förinspelat** - se **INNAN** 20/10
