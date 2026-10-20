@@ -31,7 +31,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 ### Inspelade föreläsningar
 
 **Lektionsinspelat**
-* 01 - []()
+* 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQC0prYhLsvqTJ8llkPX-haYAe680aMgu6-LP26PNCbzFVA?e=pBqpF3)
 
 
 **Förinspelat** - se **INNAN** 20/10
