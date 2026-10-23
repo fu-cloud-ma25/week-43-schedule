@@ -24,8 +24,9 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 * 01 - [Kursintro](https://docs.google.com/presentation/d/10embc7GetqIHbhnw42XT8SePTZY4va1A/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * 02 - [Introduktion till molnet](https://docs.google.com/presentation/d/1OWScEW9FVAfNB2aW9wkvTbUOsrpwxRS5/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * 03 - [Serverless](https://docs.google.com/presentation/d/1Ni8y3MeFNj55E2h-2V3qiW08msCVoqa-/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 03 - [IAM](https://docs.google.com/presentation/d/1gI0ZzEw5ZFCAUbBWL7GufqU9RCIrxhW6/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* 03 - [Lambdafunktioner](https://docs.google.com/presentation/d/1CYhuVKsvCb3hOFerIhaAiq9MglWooDE-/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 04 - [IAM](https://docs.google.com/presentation/d/1gI0ZzEw5ZFCAUbBWL7GufqU9RCIrxhW6/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 05 - [Lambdafunktioner](https://docs.google.com/presentation/d/1CYhuVKsvCb3hOFerIhaAiq9MglWooDE-/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 06 - [Serverless Framework](https://docs.google.com/presentation/d/1ypaH-cdXjhe-kymqOn8nGuBn5UOuVKS8/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
