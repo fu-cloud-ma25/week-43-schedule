@@ -51,6 +51,7 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 ### Lektionsrepon
 
 * [20 okt](https://github.com/fu-cloud-ma25/week-43-lecture-20-okt)
+* [23 okt](https://github.com/fu-cloud-ma25/week-43-lecture-23-okt)
 
 
 ### Filmer
